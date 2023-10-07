@@ -1,4 +1,4 @@
-# Eat and split
+# Pizza menu
 
 ![Preview](./1.png)
 
